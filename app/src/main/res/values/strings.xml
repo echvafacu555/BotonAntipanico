@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Botón Antipánico</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_slideshow">Enviar Comentario</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_politicas">Políticas de Privacidad</string>
+
+    <string name="menu_send">Calificar</string>
+    <string name="todo">TODO</string>
+    <string name="actualizar_datos" />
+    <string name="modificar_datos" />
+    <string name="nombre_de_contacto" />
+    <string name="n_de_cel" />
+    <string name="mis_datos">MIS DATOS</string>
+    <string name="ingresar_datos">GUARDAR DATOS</string>
+    <string name="sistema_de_bot_n_antip_nico">Sistema de Botón Antipánico</string>
+    <string name="mensaje" />
+    <string name="Ajustes" />
+    <string name="Cancelar" />
+    <string name="politicas" />
+
+
+</resources>
